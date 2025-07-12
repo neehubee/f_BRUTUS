@@ -21,10 +21,10 @@ This app is **password protected** and designed for **private, personal use** on
 
 ## 🌐 Live Demo (for owner only)
 
-> This app is private. If you have the password, you know what to do.
+> This app is private. If you have the password, you know what to do ..
 
 🔗 **Deployed on Render**  
-[https://your-app-name.onrender.com](https://your-app-name.onrender.com)
+[https://your-app-name.onrender.com](https://f-brutus.onrender.com/)
 
 > 🛡️ If you don’t have the password, ask Neehara nicely.
 
@@ -35,10 +35,12 @@ This app is **password protected** and designed for **private, personal use** on
 > Minimal UI. Efficient mindset.
 
 **Login Screen**  
-![Login](path/to/login-screenshot.png)
+![Login](path/to/login-scree<img width="1918" height="853" alt="Screenshot 2025-07-12 215023" src="https://github.com/user-attachments/assets/ee820bed-2d89-4c61-933b-567c64bffd1d" />
+nshot.png)
 
 **Main Page**  
-![Main App](path/to/main-screenshot.png)
+![Main App](path/to/main-<img width="1915" height="859" alt="Screenshot 2025-07-12 215200" src="https://github.com/user-attachments/assets/d4b62bf1-af50-41ce-890e-9941daa73ed8" />
+screenshot.png)
 
 > _Screenshots are from a sample instance. Actual data not shown._
 
