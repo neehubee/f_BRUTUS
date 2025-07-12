@@ -1,4 +1,4 @@
-# Spaced Tracker — Personal Repetition Logger 🧠
+# Spaced Tracker — Personal Repetition Logger 
 
 A minimalist, self-hosted spaced interval tracker built for reviewing tasks at strategic intervals.  
 This app is **password protected** and designed for **private, personal use** only.
