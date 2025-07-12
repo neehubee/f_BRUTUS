@@ -3,7 +3,7 @@
 A minimalist, self-hosted spaced interval tracker built for reviewing tasks at strategic intervals.  
 This app is **password protected** and designed for **private, personal use** only.
 
-> 🧿 Not your average to-do app. It's opinionated, secretive, and effective.
+>  Not your average to-do app. It's opinionated, secretive, and effective.
 
 ---
 
