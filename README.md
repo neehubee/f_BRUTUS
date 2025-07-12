@@ -42,7 +42,6 @@ nshot.png)
 ![Main App](path/to/main-<img width="1915" height="859" alt="Screenshot 2025-07-12 215200" src="https://github.com/user-attachments/assets/d4b62bf1-af50-41ce-890e-9941daa73ed8" />
 screenshot.png)
 
-> _Screenshots are from a sample instance. Actual data not shown._
 
 ---
 
