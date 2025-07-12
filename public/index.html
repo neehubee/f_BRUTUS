@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> Spaced Repetition Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="loginScreen">
+    <h2>Login</h2>
+    <input type="password" id="password" placeholder="Enter password" />
+    <button onclick="checkPassword()">Login</button>
+    <p id="loginError" style="color:red; display:none;">Wrong password!</p>
+  </div>
+
+  <div id="mainApp" style="display:none;">
+    <h1> Spaced Repetition Tracker</h1>
+    <form id="addForm">
+      <input type="text" id="question" placeholder="Question name" required>
+      <input type="date" id="doneDate" required>
+      <button>Add</button>
+    </form>
+
+    <table id="questionTable">
+      <thead>
+        <tr>
+          <th>Question</th>
+          <th>Done Date</th>
+          <th>+0</th>
+          <th>+1</th>
+          <th>+4</th>
+          <th>+9</th>
+          <th>+14</th>
+          <th>+21</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
