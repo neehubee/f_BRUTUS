@@ -35,12 +35,11 @@ This app is **password protected** and designed for **private, personal use** on
 > Minimal UI. Efficient mindset.
 
 **Login Screen**  
-!(path/to/login-scree<img width="1918" height="853" alt="Screenshot 2025-07-12 215023" src="https://github.com/user-attachments/assets/ee820bed-2d89-4c61-933b-567c64bffd1d" />
-nshot.png)
+<img width="1918" height="853" alt="Screenshot 2025-07-12 215023" src="https://github.com/user-attachments/assets/ee820bed-2d89-4c61-933b-567c64bffd1d" />
+
 
 **Main Page**  
-path/to/main-<img width="1915" height="859" alt="Screenshot 2025-07-12 215200" src="https://github.com/user-attachments/assets/d4b62bf1-af50-41ce-890e-9941daa73ed8" />
-screenshot.png)
+<img width="1915" height="859" alt="Screenshot 2025-07-12 215200" src="https://github.com/user-attachments/assets/d4b62bf1-af50-41ce-890e-9941daa73ed8" />
 
 
 ---
