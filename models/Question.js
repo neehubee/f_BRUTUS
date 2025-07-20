@@ -4,7 +4,7 @@ const QuestionSchema = new mongoose.Schema({
   question: String,
   doneDate: Date,
   status: {
-    "0": { type:Boolean, defaul:  false },
+    "0": { type:Boolean, default:  false },
     "1": { type: Boolean, default: false },
     "4": { type: Boolean, default: false },
     "9": { type: Boolean, default: false },
